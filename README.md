@@ -3,18 +3,12 @@
 **Objetivo:** Desenvolver um website responsivo e informativo para divulgar uma matéria do 2º ano do Ensino Médio, utilizando HTML e CSS.
 
 **Matérias:**
-1. Matemática
-2. História
-3. Inglês
+1. Sociologia
+2. Biologia
+3. Educação Física
 4. Artes
 5. Química
-6. Educação Física
-7. Biologia
-2. Filosofia
-3. Física
-4. Geografia
-5. Língua Portuguesa
-6. Sociologia
+6. História
 
 
 ## Etapas:
@@ -108,9 +102,9 @@
 
 | Grupo | Tema                      | Integrantes                                     | Figma                                     | Repositório                                   | Pitch                                     |
 |-------|---------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------------|-------------------------------------------|
-| 1     |  [materia]  | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 2     |  [materia]  | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 3     | [materia] |  [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 4     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 5     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 6     | [materia] | [nome alunos] | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                       | [Link do Pitch]                          |
+| 1     | Sociologia | Kaike, Bruno e Bahia | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 2     | Biologia | Gabriel e Giovanna | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 3     | Educação Física | Lara e Beatriz B. | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 4     | Artes | Nicolas e Lucas | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 5     | Quimica | Richard e Kauan | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
+| 6     | História | Thayla e João | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                       | [Link do Pitch]                          |
