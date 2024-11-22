@@ -100,11 +100,11 @@
 
 ## Grupos
 
-| Grupo | Tema                      | Integrantes                                     | Figma                                     | Repositório                                   | Pitch                                     |
-|-------|---------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------------|-------------------------------------------|
-| 1     | Sociologia | Kaike, Bruno e Bahia | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 2     | Biologia | Gabriel e Giovanna | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 3     | Educação Física | Lara e Beatriz B. | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 4     | Artes | Nicolas e Lucas | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 5     | Quimica | Richard e Kauan | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                          |
-| 6     | História | Thayla e João | [Link do Figma]                          | [Link do Repositório]                         | [Link do Pitch]                       | [Link do Pitch]                          |
+| Grupo | Tema  | Integrantes   | Figma   | Repositório  | Pitch |
+|-------|-------|---------------|---------|--------------|-------|
+| 1     | Sociologia | Kaike, Bruno e Bahia | [Link do Figma] | [Link do Repositório] | [Link do Pitch]  |
+| 2     | Biologia | Gabriel e Giovanna | [Link do Figma] | [Link do Repositório] | [Link do Pitch]  |
+| 3     | Educação Física | Lara e Beatriz B. | [Link do Figma]  | [Link do Repositório] | [Link do Pitch]  |
+| 4     | Artes | Nicolas e Lucas | [Link do Figma]  | [Link do Repositório] | [Link do Pitch]  |
+| 5     | Quimica | Richard e Kauan | [Link do Figma]  | [Link do Repositório] | [Link do Pitch]  |
+| 6     | História | Thayla e João | [Link do Figma]  | [Link do Repositório] | [Link do Pitch] | [Link do Pitch]  |
